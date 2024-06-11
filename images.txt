@@ -5,4 +5,5 @@ hslr/sun-panel:latest
 xhofe/alist:latest
 xiaoyaliu/alist:latest
 yourls
+nastools/nas-tools
 --platform=linux/arm64 xiaoyaliu/alist
