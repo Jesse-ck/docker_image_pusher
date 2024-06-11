@@ -1,4 +1,3 @@
-rancher/windows_exporter-package
 dockurr/windows
 nginx
 kasmweb/nginx:1.25.3
