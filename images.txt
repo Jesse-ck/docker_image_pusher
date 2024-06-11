@@ -1,5 +1,5 @@
 nginx
 kasmweb/nginx:1.25.3
 xhofe/alist:latest
-python/alist:latest
+hslr/sun-panel:latest
 --platform=linux/arm64 xiaoyaliu/alist
